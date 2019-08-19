@@ -3,4 +3,5 @@
 members = [
     "main",
     "four-bit-adder",
+    "gaussian-elimination"
 ]
