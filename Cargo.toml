@@ -3,5 +3,6 @@
 members = [
     "main",
     "four-bit-adder",
-    "gaussian-elimination"
+    "gaussian-elimination",
+    "mem-alloc"
 ]
